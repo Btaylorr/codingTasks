@@ -78,4 +78,3 @@ To run the notebook, you need to install the following
 dependencies:
 ```sh
 pip install numpy pandas matplotlib scikit-learn tensorflow
-
